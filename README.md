@@ -33,4 +33,4 @@
   
 - 💻 I'm **Web Developer, Front-End some time Full Stack**
 - 🏠 I’m currently working on **CPQI**
-- 🌱 I’m currently Specializing in **React.JS** and **UI/UX**
+- 🌱 I’m currently specializing in **React.JS** and learning **UI/UX**
