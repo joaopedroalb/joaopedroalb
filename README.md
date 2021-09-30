@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm João Pedro</h1>
 
 <div align="center">
   <a href="https://github.com/joaopedroalb">
