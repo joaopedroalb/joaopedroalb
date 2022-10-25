@@ -34,5 +34,5 @@
 <br/>
   
 - 💻 I'm **Web Developer, Front-End sometimes Full Stack**
-- 🏠 I’m currently working on **CPQI**
+- 🏠 I’m currently working on **Trixlogg**
 - 🌱 I’m currently specializing in **React.JS** and learning **UI/UX**
